@@ -33,7 +33,9 @@ table {
 fieldset,
 img,
 abbr {
-    border: 0
+    border: 0;
+    max-width: 100%;
+    height: auto;
 }
 
 address,
